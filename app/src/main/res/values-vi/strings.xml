@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ứng dụng demo survey</string>
+    <string name="button.next">Câu hỏi tiếp theo</string>
+</resources>
